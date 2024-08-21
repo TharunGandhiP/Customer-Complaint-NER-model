@@ -1,0 +1,797 @@
+[
+    [
+        "My Dell Inspiron screen flickers intermittently, and it's a 15.6-inch display.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "BRAND"
+                ],
+                [
+                    17,
+                    32,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The battery life on my Lenovo ThinkPad with an Intel Core i7 is terrible, lasting only 2 hours.",
+        {
+            "entities": [
+                [
+                    23,
+                    29,
+                    "BRAND"
+                ],
+                [
+                    47,
+                    60,
+                    "PROCESSOR"
+                ]
+            ]
+        }
+    ],
+    [
+        "My HP Pavilion with an AMD Ryzen 5 processor is overheating after just 30 minutes of use.",
+        {
+            "entities": [
+                [
+                    3,
+                    5,
+                    "BRAND"
+                ],
+                [
+                    23,
+                    34,
+                    "PROCESSOR"
+                ],
+                [
+                    48,
+                    59,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The touchpad on my MacBook Air with an M1 chip is unresponsive.",
+        {
+            "entities": [
+                [
+                    19,
+                    26,
+                    "BRAND"
+                ],
+                [
+                    39,
+                    46,
+                    "PROCESSOR"
+                ]
+            ]
+        }
+    ],
+    [
+        "I am experiencing random shutdowns on my Acer Aspire with an AMD Ryzen 7 processor.",
+        {
+            "entities": [
+                [
+                    41,
+                    45,
+                    "BRAND"
+                ],
+                [
+                    61,
+                    72,
+                    "PROCESSOR"
+                ],
+                [
+                    18,
+                    34,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The keyboard on my Asus ROG laptop has stopped working.",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My MSI laptop's fan is making a loud noise.",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "BRAND"
+                ],
+                [
+                    16,
+                    42,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Wi-Fi connection on my Toshiba Satellite with an Intel Core i5 keeps dropping.",
+        {
+            "entities": [
+                [
+                    27,
+                    34,
+                    "BRAND"
+                ],
+                [
+                    53,
+                    66,
+                    "PROCESSOR"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Alienware laptop with an Intel Core i9 is having graphics card issues with the NVIDIA GeForce RTX 3080.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "BRAND"
+                ],
+                [
+                    28,
+                    41,
+                    "PROCESSOR"
+                ],
+                [
+                    82,
+                    105,
+                    "PROCESSOR"
+                ],
+                [
+                    52,
+                    72,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The speakers on my Samsung Galaxy Book are very low in volume.",
+        {
+            "entities": [
+                [
+                    19,
+                    26,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "I can't seem to get my Huawei MateBook with an Intel Core i5 to charge properly.",
+        {
+            "entities": [
+                [
+                    23,
+                    29,
+                    "BRAND"
+                ],
+                [
+                    47,
+                    60,
+                    "PROCESSOR"
+                ],
+                [
+                    2,
+                    79,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The USB ports on my Sony VAIO are not working.",
+        {
+            "entities": [
+                [
+                    20,
+                    24,
+                    "BRAND"
+                ],
+                [
+                    25,
+                    29,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Gigabyte laptop's 17-inch screen has dead pixels.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "BRAND"
+                ],
+                [
+                    29,
+                    51,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I am having issues with the 1080p webcam on my Razer Blade with an Intel Core i7.",
+        {
+            "entities": [
+                [
+                    47,
+                    52,
+                    "BRAND"
+                ],
+                [
+                    67,
+                    80,
+                    "PROCESSOR"
+                ],
+                [
+                    12,
+                    40,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Ethernet port on my Fujitsu Lifebook is malfunctioning.",
+        {
+            "entities": [
+                [
+                    24,
+                    31,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Panasonic Toughbook has a broken hinge.",
+        {
+            "entities": [
+                [
+                    3,
+                    12,
+                    "BRAND"
+                ],
+                [
+                    29,
+                    41,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The backlight on my LG Gram keyboard is flickering.",
+        {
+            "entities": [
+                [
+                    20,
+                    22,
+                    "BRAND"
+                ],
+                [
+                    28,
+                    50,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The audio jack on my Microsoft Surface Pro 7 is not detecting headphones.",
+        {
+            "entities": [
+                [
+                    21,
+                    30,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Vaio laptop\u2019s trackpad is stuck.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "BRAND"
+                ],
+                [
+                    17,
+                    34,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The BIOS on my Clevo laptop is corrupted.",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "The fingerprint sensor on my Xiaomi Mi Notebook with an Intel Core i5 is unresponsive.",
+        {
+            "entities": [
+                [
+                    29,
+                    35,
+                    "BRAND"
+                ],
+                [
+                    56,
+                    69,
+                    "PROCESSOR"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Chuwi laptop\u2019s screen is not turning on.",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "BRAND"
+                ],
+                [
+                    18,
+                    42,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The DVD drive on my Gateway laptop is not reading discs.",
+        {
+            "entities": [
+                [
+                    20,
+                    27,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Dynabook laptop's SSD is failing.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "BRAND"
+                ],
+                [
+                    21,
+                    35,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Bluetooth on my Medion Akoya laptop is not connecting.",
+        {
+            "entities": [
+                [
+                    20,
+                    26,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Bmax laptop with an AMD Ryzen 5 is running very slow.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "BRAND"
+                ],
+                [
+                    23,
+                    34,
+                    "PROCESSOR"
+                ],
+                [
+                    38,
+                    55,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The hinge on my JUMPER EZbook is loose.",
+        {
+            "entities": [
+                [
+                    16,
+                    22,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Voyo laptop\u2019s battery is draining too quickly.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "BRAND"
+                ],
+                [
+                    17,
+                    48,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The fan on my iLife Zed laptop is making a grinding noise.",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Teclast laptop's keyboard is missing keys.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "BRAND"
+                ],
+                [
+                    20,
+                    44,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The display on my Onda laptop is flickering, and it's a 14-inch IPS display.",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Fusion5 laptop's battery swelled up.",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "BRAND"
+                ],
+                [
+                    20,
+                    38,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The webcam on my Smartbook laptop is not working.",
+        {
+            "entities": [
+                [
+                    17,
+                    26,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My NuVision laptop is not booting up.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "BRAND"
+                ],
+                [
+                    19,
+                    36,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The screen on my Nextbook laptop is cracked.",
+        {
+            "entities": [
+                [
+                    17,
+                    25,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Cube iWork laptop's touch screen is unresponsive.",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "BRAND"
+                ],
+                [
+                    23,
+                    51,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The touchpad on my Azpen laptop is not clicking.",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Ematic laptop\u2019s battery life is very short, lasting only 1 hour.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "BRAND"
+                ],
+                [
+                    19,
+                    45,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The charger on my RCA Cambio is overheating.",
+        {
+            "entities": [
+                [
+                    18,
+                    21,
+                    "BRAND"
+                ],
+                [
+                    32,
+                    43,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Brydge laptop\u2019s screen brightness is too low.",
+        {
+            "entities": [
+                [
+                    3,
+                    9,
+                    "BRAND"
+                ],
+                [
+                    19,
+                    47,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The speakers on my Venturer laptop are crackling.",
+        {
+            "entities": [
+                [
+                    19,
+                    27,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Avita Liber laptop\u2019s 13.3-inch screen resolution is poor.",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "BRAND"
+                ],
+                [
+                    34,
+                    59,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The Wi-Fi on my Pinebook Pro is not working.",
+        {
+            "entities": [
+                [
+                    16,
+                    24,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Eve V laptop\u2019s keyboard is not connecting.",
+        {
+            "entities": [
+                [
+                    3,
+                    6,
+                    "BRAND"
+                ],
+                [
+                    18,
+                    44,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The USB-C port on my Alldocube laptop is loose.",
+        {
+            "entities": [
+                [
+                    21,
+                    30,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My T-bao laptop's hinge is broken.",
+        {
+            "entities": [
+                [
+                    3,
+                    8,
+                    "BRAND"
+                ],
+                [
+                    18,
+                    33,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The backlight on my I-Life Zed Air Pro is flickering.",
+        {
+            "entities": [
+                [
+                    20,
+                    26,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Micromax Canvas laptop's touchpad is too sensitive.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "BRAND"
+                ],
+                [
+                    28,
+                    53,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The battery on my InFocus Kangaroo Notebook is not charging.",
+        {
+            "entities": [
+                [
+                    18,
+                    25,
+                    "BRAND"
+                ]
+            ]
+        }
+    ],
+    [
+        "My Datawind laptop\u2019s screen has vertical lines.",
+        {
+            "entities": [
+                [
+                    3,
+                    11,
+                    "BRAND"
+                ],
+                [
+                    21,
+                    46,
+                    "ISSUE"
+                ]
+            ]
+        }
+    ]
+]
