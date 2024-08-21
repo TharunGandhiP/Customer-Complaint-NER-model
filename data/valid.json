@@ -1,0 +1,222 @@
+[
+    {
+        "complaint": "I am having issues with the 1080p webcam on my Razer Blade with an Intel Core i7.",
+        "entities": [
+            [
+                47,
+                52,
+                "BRAND"
+            ],
+            [
+                67,
+                80,
+                "PROCESSOR"
+            ],
+            [
+                12,
+                40,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "My Brydge laptop\u2019s screen brightness is too low.",
+        "entities": [
+            [
+                3,
+                9,
+                "BRAND"
+            ],
+            [
+                19,
+                47,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "The display on my Onda laptop is flickering, and it's a 14-inch IPS display.",
+        "entities": [
+            [
+                18,
+                22,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "My T-bao laptop's hinge is broken.",
+        "entities": [
+            [
+                3,
+                8,
+                "BRAND"
+            ],
+            [
+                18,
+                33,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "The audio jack on my Microsoft Surface Pro 7 is not detecting headphones.",
+        "entities": [
+            [
+                21,
+                30,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "The battery on my InFocus Kangaroo Notebook is not charging.",
+        "entities": [
+            [
+                18,
+                25,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "The hinge on my JUMPER EZbook is loose.",
+        "entities": [
+            [
+                16,
+                22,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "My Bmax laptop with an AMD Ryzen 5 is running very slow.",
+        "entities": [
+            [
+                3,
+                7,
+                "BRAND"
+            ],
+            [
+                23,
+                34,
+                "PROCESSOR"
+            ],
+            [
+                38,
+                55,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "The webcam on my Smartbook laptop is not working.",
+        "entities": [
+            [
+                17,
+                26,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "The BIOS on my Clevo laptop is corrupted.",
+        "entities": [
+            [
+                15,
+                20,
+                "BRAND"
+            ]
+        ]
+    },
+    {
+        "complaint": "My Gigabyte laptop's 17-inch screen has dead pixels.",
+        "entities": [
+            [
+                3,
+                11,
+                "BRAND"
+            ],
+            [
+                29,
+                51,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "I am experiencing random shutdowns on my Acer Aspire with an AMD Ryzen 7 processor.",
+        "entities": [
+            [
+                41,
+                45,
+                "BRAND"
+            ],
+            [
+                61,
+                72,
+                "PROCESSOR"
+            ],
+            [
+                18,
+                34,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "My Ematic laptop\u2019s battery life is very short, lasting only 1 hour.",
+        "entities": [
+            [
+                3,
+                9,
+                "BRAND"
+            ],
+            [
+                19,
+                45,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "My Alienware laptop with an Intel Core i9 is having graphics card issues with the NVIDIA GeForce RTX 3080.",
+        "entities": [
+            [
+                3,
+                12,
+                "BRAND"
+            ],
+            [
+                28,
+                41,
+                "PROCESSOR"
+            ],
+            [
+                82,
+                105,
+                "PROCESSOR"
+            ],
+            [
+                52,
+                72,
+                "ISSUE"
+            ]
+        ]
+    },
+    {
+        "complaint": "The touchpad on my MacBook Air with an M1 chip is unresponsive.",
+        "entities": [
+            [
+                19,
+                26,
+                "BRAND"
+            ],
+            [
+                39,
+                46,
+                "PROCESSOR"
+            ]
+        ]
+    }
+]

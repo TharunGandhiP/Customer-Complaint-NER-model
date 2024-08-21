@@ -1,0 +1,21 @@
+Text:
+MSI Pulse GL66 (2024) - 12th Gen Intel Core i7-12700H, 70WHrs Battery - (16 GB/1 TB SSD/Windows 11 Home/NVIDIA RTX 3070) Gaming Laptop (15.6 Inch, Black, 2.25 Kg)
+
+Proposed modal:
+MSI BRAND
+(2024) YEAR
+Intel Core i7-12700H PROCESSOR
+TB SSD STORAGE
+Windows 11 OS
+NVIDIA RTX 3070 GRAPHICS
+Gaming Laptop PRODUCT_TYPE
+15.6 Inch SIZE
+Black COLOR
+2.25 Kg WEIGHT
+
+
+
+
+Pre-Trained modal:
+
+ [('MSI Pulse', 'ORG'), ('2024', 'DATE'), ('Gen Intel Core', 'ORG'), ('i7-12700H', 'DATE'), ('70WHrs', 'CARDINAL'), ('16', 'CARDINAL'), ('TB SSD/Windows 11 Home/NVIDIA', 'ORG'), ('15.6 Inch', 'QUANTITY'), ('2.25', 'CARDINAL')]

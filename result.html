@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Highlighted Text</title>
+<style>
+    body {
+        max-width: 50%;
+        margin: auto;
+        font-family: Arial, sans-serif;
+        line-height: 1.6; /* Increased line spacing */
+    }
+    .BRAND, .YEAR, .PROCESSOR, .STORAGE, .OS, .GRAPHICS, .PRODUCT_TYPE, .SIZE, .COLOR, .WEIGHT,
+    .ORG, .DATE, .CARDINAL, .QUANTITY {
+        padding: 2px 5px;
+        border-radius: 3px;
+        margin-right: 5px;
+        color: #000;
+    }
+    .BRAND { background-color: #FFA07A; }
+    .YEAR { background-color: #98FB98; }
+    .PROCESSOR { background-color: #FFB6C1; }
+    .STORAGE { background-color: #87CEFA; }
+    .OS { background-color: #FFD700; }
+    .GRAPHICS { background-color: #90EE90; }
+    .PRODUCT_TYPE { background-color: #DDA0DD; }
+    .SIZE { background-color: #FF6347; }
+    .COLOR { background-color: #00FF7F; }
+    .WEIGHT { background-color: #D3D3D3; }
+    
+    .ORG { background-color: #ADD8E6; }
+    .DATE { background-color: #FF69B4; }
+    .CARDINAL { background-color: #32CD32; }
+    .QUANTITY { background-color: #9370DB; }
+
+    .entity-name { font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h3>Proposed Model Annotations</h3>
+<p>
+    <span class="BRAND">MSI <span class="entity-name">BRAND</span></span> Pulse GL66 (<span class="YEAR">2024 <span class="entity-name">YEAR</span></span>) - 12th Gen <span class="PROCESSOR">Intel Core i7-12700H <span class="entity-name">PROCESSOR</span></span>, 70WHrs Battery - (<span class="STORAGE">16 GB/1 TB SSD <span class="entity-name">STORAGE</span></span>/<span class="OS">Windows 11 Home <span class="entity-name">OS</span></span>/<span class="GRAPHICS">NVIDIA RTX 3070 <span class="entity-name">GRAPHICS</span></span>) 
+    <span class="PRODUCT_TYPE">Gaming Laptop <span class="entity-name">PRODUCT_TYPE</span></span> (<span class="SIZE">15.6 Inch <span class="entity-name">SIZE</span></span>, <span class="COLOR">Black <span class="entity-name">COLOR</span></span>, <span class="WEIGHT">2.25 Kg <span class="entity-name">WEIGHT</span></span>)
+</p>
+
+<h3>Pre-Trained Model Annotations</h3>
+<p>
+    <span class="ORG">MSI Pulse <span class="entity-name">ORG</span></span> GL66 (<span class="DATE">2024 <span class="entity-name">DATE</span></span>) - 12th <span class="ORG">Gen Intel Core <span class="entity-name">ORG</span></span> <span class="DATE">i7-12700H <span class="entity-name">DATE</span></span>, <span class="CARDINAL">70WHrs <span class="entity-name">CARDINAL</span></span> Battery - (<span class="CARDINAL">16 <span class="entity-name">CARDINAL</span></span> GB/1 TB SSD/<span class="ORG">Windows <span class="entity-name">ORG</span></span> 11 Home/<span class="ORG">NVIDIA <span class="entity-name">ORG</span></span> RTX 3070) Gaming Laptop (<span class="QUANTITY">15.6 Inch <span class="entity-name">QUANTITY</span></span>, Black, <span class="CARDINAL">2.25 <span class="entity-name">CARDINAL</span></span> Kg)
+</p>
+
+</body>
+</html>
